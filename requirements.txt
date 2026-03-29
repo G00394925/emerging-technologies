@@ -1,2 +1,5 @@
 numpy
 qiskit
+qiskit_aer
+matplotlib
+pylatexenc
