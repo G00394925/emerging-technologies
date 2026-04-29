@@ -4,7 +4,7 @@
 **ID:** G00394925
 
 ## Overview
-This repository contains a Jupyter notebook file <code>problems.ipynb</code> that demonstrates the difference between classical and quantum algorithms. It contains the workings of multiple given problems, which outline a step-by-step implementation and rationale to the **Deutsch-Jozsa Algorithm** - an algorithm that determines a function property after a single iteration, highlighting the effectiveness of quantum computing over classical. <br>
+This repository contains a Jupyter notebook file <code>problems.ipynb</code> that demonstrates the difference between classical and quantum algorithms. It contains the workings of multiple given problems, which outline a step-by-step implementation and rationale for the **Deutsch-Jozsa Algorithm** - an algorithm that determines a function property after a single iteration, highlighting the effectiveness of quantum computing over classical. <br>
 
 There are 5 problems addressed in this notebook, outlined as follows:
 - **Problem 1:** Generating random boolean functions.
@@ -16,7 +16,7 @@ There are 5 problems addressed in this notebook, outlined as follows:
 ## Usage
 To run this notebook, follow these steps:
 
-1. Clone repository
+1. Clone the repository
 ```bash
 git clone https://github.com/G00394925/emerging-technologies.git
 ```
