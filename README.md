@@ -4,10 +4,12 @@
 **ID:** G00394925
 
 ## Overview
-This repository contains a Jupyter notebook file <code>problems.ipynb</code> that demonstrates the difference between classical and quantum algorithms. It contains the workings of multiple given problems, which outline a step-by-step implementation and rationale for the **Deutsch-Jozsa Algorithm** - an algorithm that determines a function property after a single iteration, highlighting the effectiveness of quantum computing over classical. <br>
+This repository contains a Jupyter notebook file <code>problems.ipynb</code> that demonstrates the difference between classical and quantum algorithms. It contains the workings of multiple given problems, which outline a step-by-step implementation and rationale for the **Deutsch-Jozsa Algorithm** - an algorithm that determines a function property after a single iteration, highlighting the effectiveness of quantum computing over classical.
+
+The notebook forms a cohesive narrative: each problem separately implements a core component/argument of the system at hand, with regards to the differences of processing methods and algorithms. 
 
 There are 5 problems addressed in this notebook, outlined as follows:
-- **Problem 1:** Generating random boolean functions.
+- **Problem 1:** Generating random boolean functions to query.
 - **Problem 2:** Classical Testing to determine the function type.
 - **Problem 3:** Creation of Quantum Oracles to implement the four possible boolean functions from **Deutsch's Algorithm**.
 - **Problem 4:** Designing a quantum circuit using Qiskit to implement Deutsch's Algorithm using the oracles generated in Problem 3.
@@ -32,6 +34,4 @@ pip install -r requirements.txt
 The outputs of the code cells aim to demonstrate the functions and usability of quantum information, and each step provides context for each subsequent portion afterwards. 
 
 ## Further Information
-IBM's learning platform provides a detailed introduction to quantum information and how it differs to classic systems.
-
-https://quantum.cloud.ibm.com/learning/en/courses/basics-of-quantum-information
+[IBM's learning platform](https://quantum.cloud.ibm.com/learning/en/courses/basics-of-quantum-information) provides a detailed introduction to quantum information and how it differs to classic systems.
