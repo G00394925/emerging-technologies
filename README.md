@@ -26,4 +26,12 @@ git clone https://github.com/G00394925/emerging-technologies.git
 pip install -r requirements.txt
 ```
 
-3. Run all cells.
+3. Open the notebook and run all cells.
+
+
+The outputs of the code cells aim to demonstrate the functions and usability of quantum information, and each step provides context for each subsequent portion afterwards. 
+
+## Further Information
+IBM's learning platform provides a detailed introduction to quantum information and how it differs to classic systems.
+
+https://quantum.cloud.ibm.com/learning/en/courses/basics-of-quantum-information
